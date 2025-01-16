@@ -18,7 +18,7 @@ Lifelong Learner, currently working as hospital.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://twitter.com/FarhanA68418">
-  <img align="left" alt="Goo's Twitter" width="20px" src="[https://simpleicons.now.sh/twitter/495f7e](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1024px-X_logo_2023.svg.png)" />
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/expertsexchange" />
 </a>
 <a href="https://www.instagram.com/farhnaldy__/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
